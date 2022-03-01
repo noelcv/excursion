@@ -16,3 +16,15 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
