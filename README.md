@@ -13,6 +13,6 @@ The web page we’ll build advertises a mobile app which helps users record and 
 We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
 
-##Preview the final project
+## Preview the final project
 
-(https://noelcv.github.io/excursion)
+https://noelcv.github.io/excursion
